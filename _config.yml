@@ -1,11 +1,11 @@
 # Site settings
 author: Phil Humphrey
-title: 
+title: Software Engineering Journey
 header-img: img/home-bg.png
 email: phumphrey588@yahoo.com
 copyright_name: Phil Humphrey
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Journey to becoming a Software Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  philhumphrey
